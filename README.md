@@ -1,5 +1,5 @@
 ## Hey 👋, This is subhanrizki
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=subhannrizkii.blogger.com/)](subhannrizkii.blogger.com/) <p align='left'>•👀 I’m interested in IoT Project
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=subhannrizkii.blogger.com/)](subhannrizkii.blogspot.com/) <p align='left'>•👀 I’m interested in IoT Project
  
  •📫 How to reach me: subhannrizkii@gmail.com</p>
 ## Some of my Github Stats
