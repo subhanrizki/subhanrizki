@@ -12,4 +12,4 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=subhanrizki alt=subhanrizki /> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizki&layout=compact)](https://github.com/subhanrizki/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizki&theme=blue-green)
