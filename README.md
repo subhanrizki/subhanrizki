@@ -3,6 +3,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=subhanrizki alt=subhanrizki /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=subhanrizki&show_icons=true&include_all_commits=true)](https://github.com/subhanrizki/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizki&layout=compact)](https://github.com/subhanrizki/github-readme-stats)
 
