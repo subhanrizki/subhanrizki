@@ -1,4 +1,4 @@
- •👋 Hi there, I'm Subhanrizki
+ •👋 Hi there
  
  •👀 I’m interested in IoT Project
  
