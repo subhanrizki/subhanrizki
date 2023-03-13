@@ -1,4 +1,6 @@
-### Hi there 👋
+ •👋 Hi there, I'm Subhanrizki
+ •👀 I’m interested in IoT Project
+ •📫 How to reach me: subhannrizkii@gmail.com
 
 <!--
 **subhanrizki/subhanrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
