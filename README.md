@@ -1,6 +1,4 @@
-## Hi there👋, i'm subhanrizki
-<p align='left'>•👀 I’m interested in IoT Project
- 
+
  •📫 How to reach me: subhanrizki@protonmail.com</p>
  Tools :
  
