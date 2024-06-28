@@ -7,6 +7,15 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ## Some of my Github Stats
+---
+<h3 align="center">Student</h3>
+
+
+### My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhanrizki&theme=highcontrast)](https://git.io/streak-stats)
+
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=subhanrizki alt=subhanrizki /> </p>
 
 
